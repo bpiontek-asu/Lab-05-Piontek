@@ -12,7 +12,8 @@ title: GitHub Pages Web Development Project for PAF 515 Lab 05
 author: Beth Lyman Piontek
 
 # Define Site URL
-url: https://bpiontek-asu.github.io/Lab-05-Piontek/ 
+url: https://bpiontek-asu.github.io
+baseurl: /Lab-05-Piontek/ 
 
 # --- List of links in the navigation bar --- #
 
