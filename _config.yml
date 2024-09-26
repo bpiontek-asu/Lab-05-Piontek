@@ -11,6 +11,9 @@ title: GitHub Pages Web Development Project for PAF 515 Lab 05
 # Your name to show in the footer
 author: Beth Lyman Piontek
 
+# Define Site URL
+url: https://bpiontek-asu.github.io/Lab-05-Piontek/ 
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
